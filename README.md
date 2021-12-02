@@ -8,7 +8,7 @@ Friday we'll showcase submissions and raffle prizes for all who participated.
 Your submission should:
 
 * Help promote the cause of #TeamSeas or another organization out to do good in the world
-* Be publically availailable (you can use GitHub Pages)
+* Be publicly available (you can use GitHub Pages)
 * Be created completely during the EnterpriseNG 2021 conference
 
 To submit your project, use the form link (will be provided shortly).
