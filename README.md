@@ -11,4 +11,6 @@ Your submission should:
 * Be publicly available (you can use GitHub Pages)
 * Be created completely during the EnterpriseNG 2021 conference
 
-To submit your project, use the form link (will be provided shortly).
+To submit your project, use the form link: [https://forms.office.com/r/0wEXbJC1v5](https://forms.office.com/r/0wEXbJC1v5)
+
+Submissions must be received before 12PM MST on Friday, December 3rd or will not be eligible for the raffle for prizes.
