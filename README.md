@@ -1,7 +1,7 @@
 # EnterpriseNG Hackathon 2021
 
 What if you could make the world a better place using your mad Angular skills? Well, let's find out!
-Come Thursday to organize and work on hacking a web or mobile app to help support #TeamSeas or any other worthwhile cause of your choice!
+Come Thursday to organize and work on hacking a web or mobile app to help support [#TeamSeas](https://teamseas.org/) or any other worthwhile cause of your choice!
 
 Friday we'll showcase submissions and raffle prizes for all who participated.
 
