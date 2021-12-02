@@ -14,3 +14,5 @@ Your submission should:
 To submit your project, use the form link: [https://forms.office.com/r/0wEXbJC1v5](https://forms.office.com/r/0wEXbJC1v5)
 
 Submissions must be received before 12PM MST on Friday, December 3rd or will not be eligible for the raffle for prizes.
+
+![#TeamSeas](https://pbs.twimg.com/profile_images/1449778925350043655/eTn3KPKF_400x400.jpg)
